@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+    "description": "Learning Springboot ",
+    "status": "DONE",
+    "createdAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 46,
+        "second": 57,
+        "nano": 511700008
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 54,
+        "second": 11,
+        "nano": 303510049
+      }
+    }
+  },
+  {
+    "id": 2,
+    "description": "Go to School ",
+    "status": "DONE",
+    "createdAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 47,
+        "second": 44,
+        "nano": 5232
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 52,
+        "second": 33,
+        "nano": 875144199
+      }
+    }
+  },
+  {
+    "id": 3,
+    "description": "Go to bed ",
+    "status": "TODO",
+    "createdAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 51,
+        "second": 55,
+        "nano": 142585691
+      }
+    },
+    "updatedAt": {
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1
+      },
+      "time": {
+        "hour": 23,
+        "minute": 51,
+        "second": 55,
+        "nano": 142585691
+      }
+    }
+  }
+]
